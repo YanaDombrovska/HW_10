@@ -1,0 +1,101 @@
+    1  man
+    2  help
+    3  clear
+    4  ls
+    5  cd Decktop
+    6  cd Яна
+    7  clear
+    8  pwd
+    9  mkdir
+   10  touch\\
+   11  touch
+   12  touch help
+   13  touch-help
+   14  touch--help
+   15  clear
+   16  cd
+   17  clear
+   18  cd ..
+   19  ls
+   20  cd yana
+   21  cd Desktop
+   22  clear
+   23  dir
+   24  cd
+   25  cd Default
+   26  clear
+   27  type null
+   28  type nul
+   29  type_null
+   30  clear
+   31  git add
+   32  git status
+   33  clear
+   34  cd lesson
+   35  clear
+   36  nano
+   37  cd git
+   38  clear
+   39  cd desktop
+   40  cd git
+   41  git config  --global user.name *Yana Dombrovska*
+   42  git config --global user.email *yanadombrovska1994@gmail.com*
+   43  git config --global user.email yanadombrovska1994@gmail.com
+   44  git clone https://github.com/YanaDombrovska/HW_10.git
+   45  cd HW_10
+   46  touch text_ignore.txt
+   47  nano .gitignore
+   48  git status
+   49  git add text_ignore.txt
+   50  f
+   51  -f
+   52  git status
+   53  gift add <text_ignore.txt>
+   54  git daa <text_ignore.txt>
+   55  git add <text_ignore.txt>
+   56  git status
+   57  git add text_ignore.txt
+   58  git status
+   59  git add *text_ignore.txt*
+   60  f
+   61  -f
+   62  git add . <text_ignore.txt>
+   63  git add .
+   64  git commit
+   65  git status
+   66  clear
+   67  cd HW_10
+   68  cd Desktop
+   69  cd HW_10
+   70  cd hw_10
+   71  clear
+   72  cd git
+   73  cd HW_10
+   74  git status
+   75  git commit -m "File was update"
+   76  touch main_text.txt
+   77  git add .
+   78  git commit -m "New file added"
+   79  git log
+   80  git branch
+   81  git checkout -b develop
+   82  git branch
+   83  touch develop_text.txt
+   84  git add .
+   85  git commit -m "New file added"
+   86  nano develop_text.txt
+   87  git status
+   88  git add .
+   89  git commit -m "New update"
+   90  git checkout main
+   91  git branch
+   92  git merge develop
+   93  git branch
+   94  git status
+   95  git log
+   96  command_list.csv
+   97  git commit
+   98  git branch
+   99  git log
+  100  history
+  101  history > command_list.csv
